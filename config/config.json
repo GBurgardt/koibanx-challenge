@@ -1,0 +1,4 @@
+{
+    "urldb": "mongodb://localhost/koibanxdb",
+    "urlapi": "/api/v0"
+}
